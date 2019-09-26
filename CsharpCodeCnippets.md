@@ -1,6 +1,7 @@
 # C# code snippets https://docs.microsoft.com/en-us/visualstudio/ide/visual-csharp-code-snippets?view=vs-2019
 
-Name		| Description
+|Name		| Description|
+| --------- |------------| 
 #if			|	Creates a #if directive and a #endif directive.
 #region		|	Creates a #region directive and a #endregion directive.
 ~			|	Creates a finalizer (destructor) for the containing class.
