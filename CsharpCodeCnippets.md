@@ -62,6 +62,7 @@ https://github.com/thangchung/awesome-dotnet-core
 https://github.com/uhub/awesome-c-sharp
 https://github.com/nopSolutions/nopCommerce
 https://github.com/VirtoCommerce
+https://github.com/lenardchristopher/ASP.NET-Core-with-Dapper/blob/master/DataAccessLayer/SqlRepository.cs
 
 
 https://bookauthority.org/books/new-net-books
