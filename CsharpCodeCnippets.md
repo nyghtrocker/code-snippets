@@ -43,3 +43,27 @@ while		|	Creates a while loop.
 
 #All c# extension methods
 https://www.extensionmethod.net/csharp
+https://www.sanfoundry.com/csharp-programming-examples/
+https://github.com/KevinDockx/RESTfulAPIAspNetCore_Course
+https://github.com/KevinDockx/AngularASPNetCoreBusinessApplications
+https://github.com/DeborahK
+https://github.com/DeborahK/angular
+https://github.com/dotnet-architecture/eShopOnContainers
+# Nuget packages
+Fluent Validation
+Fluent Assertions
+Autofac,
+Auto Mapper 
+
+# Open Source .NET libraries
+https://github.com/tallesl/net-libraries-that-make-your-life-easier
+https://github.com/quozd/awesome-dotnet
+https://github.com/thangchung/awesome-dotnet-core
+https://github.com/uhub/awesome-c-sharp
+https://github.com/nopSolutions/nopCommerce
+https://github.com/VirtoCommerce
+
+
+https://bookauthority.org/books/new-net-books
+https://www.talkingdotnet.com/recommended-books/
+
