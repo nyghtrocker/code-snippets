@@ -68,3 +68,6 @@ https://github.com/lenardchristopher/ASP.NET-Core-with-Dapper/blob/master/DataAc
 https://bookauthority.org/books/new-net-books
 https://www.talkingdotnet.com/recommended-books/
 
+#aspnetboilerplate
+https://aspnetboilerplate.com/Samples
+https://github.com/aspnetboilerplate
