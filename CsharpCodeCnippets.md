@@ -71,3 +71,6 @@ https://www.talkingdotnet.com/recommended-books/
 #aspnetboilerplate
 https://aspnetboilerplate.com/Samples
 https://github.com/aspnetboilerplate
+
+#GitHub Repo
+https://github.com/KevinDockx
