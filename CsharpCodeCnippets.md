@@ -74,3 +74,5 @@ https://github.com/aspnetboilerplate
 
 #GitHub Repo
 https://github.com/KevinDockx
+
+https://github.com/doctral/Clean-Architecture-with-ASP.NET-Core
