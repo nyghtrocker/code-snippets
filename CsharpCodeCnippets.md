@@ -68,14 +68,36 @@ https://github.com/lenardchristopher/ASP.NET-Core-with-Dapper/blob/master/DataAc
 https://bookauthority.org/books/new-net-books
 https://www.talkingdotnet.com/recommended-books/
 
-#aspnetboilerplate
+# aspnetboilerplate
 https://aspnetboilerplate.com/Samples
 https://github.com/aspnetboilerplate
 
-#GitHub Repo
+# GitHub Repo
 https://github.com/KevinDockx
 
 https://github.com/doctral/Clean-Architecture-with-ASP.NET-Core
 
 https://github.com/gpeipman?before=Y3Vyc29yOnYyOpK5MjAxNy0wNS0yMFQxMDo1MzoyNCswMjowMM4Fed_A&tab=repositories
+
+https://github.com/jason-roberts?tab=repositories
+
+# Course 
+ #React Building Applications with React and Flux
+    https://github.com/coryhouse/react-flux-building-applications
+#Angular Architecture and Best Practices video course on Pluralsight  
+  https://github.com/DanWahlin/angular-architecture
+  
+# .net core testing 
+https://github.com/jason-roberts/PSMVCCoreTestingDemoCode
+
+# Rest api 
+https://github.com/KevinDockx/BuildingRESTfulAPIAspNetCore3
+
+# Rest api 
+https://github.com/shawnwildermuth/BuildingWebASPNETCore
+
+# Angular 
+https://github.com/KevinDockx/AngularASPNetCoreBusinessApplications
+
+# https://github.com/OdeToCode?tab=repositories
 
