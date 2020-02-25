@@ -105,3 +105,4 @@ https://github.com/KevinDockx/AngularASPNetCoreBusinessApplications
 
 # https://github.com/dotnet/samples/tree/master/csharp
 
+# https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/
